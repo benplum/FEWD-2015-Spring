@@ -1,4 +1,7 @@
 # FEWD 2015 - Spring
 
-* Author: 
-* Website: 
+* Author: Leah Conigland
+* Website: www.ldconigland.weebly.com
+
+The reason I’m taking this Front-End Web Development course with Betamore Academy is because I want to switch to a new career that I will enjoy and gain a sense of fulfillment from. I graduated last year from Salisbury University with a bachelor’s degree in Media Production. Upon graduation I searched extensively for any film or video production jobs in the Baltimore area and have had zero luck landing a job or even an interview with anyone. After much frustration and hopping from one dead end job to the next, I finally landed a job as a full-time unit secretary at a nursing home in Towson, MD. The job is really stressful at times and is definitely not what I want to be doing for a long period time, but it pays well for the time being. I got turned on to web design and development by a friend of mine who works in Computer Science after voicing my frustrations about not being able to express myself creatively in my work. I’ve been using free online resources for the last few months to try and teach myself how to code and while I’ve found much enjoyment in coding, I didn’t feel like I was really retaining any of the information from the sites nor did I feel confident in my ability to actually create a website. Thus, here I am at Betamore Academy, with high hopes and confidence that this is what I need to jumpstart my career.
+
